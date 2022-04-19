@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlvesJoaoPedro
 - 👀 I’m interested in learn, increase my skills and become a better programmer.
-- 🌱 I’m currently learning HTML5, CSS3 and JavaScrpit
+- 🌱 I’m currently learning HTML5, CSS3 and JavaScript
 
 <!---
 AlvesJoaoPedro/AlvesJoaoPedro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
